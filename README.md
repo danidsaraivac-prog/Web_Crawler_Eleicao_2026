@@ -61,9 +61,19 @@ Testes realizados no Ubuntu:
 - `--turno 3`: rejeitado com mensagem explicativa.
 - `--municipio 123`: rejeitado com mensagem explicativa.
 - `--limite -1`: rejeitado com mensagem explicativa.
+  
+O teste completo percorreu os 217 municípios nos dois turnos.
+Foram apresentadas 1.301 tabelas, nenhuma consulta sem dados
+e uma falha de rede por tempo de resposta esgotado.
 
-O teste completo dos 217 municípios está em andamento.
-Seu resultado será registrado após a conclusão.
+A falha ocorreu em Presidente Sarney (08141), na consulta
+de Deputado Federal do primeiro turno.
+
+O município foi consultado novamente: cinco tabelas apresentadas,
+nenhuma consulta sem dados e nenhuma falha. A consulta que
+havia falhado foi validada no reteste.
+
+Evidências: validacao_completa.txt e reteste_presidente_sarney.txt.
 
 ## Pair Programming
 
