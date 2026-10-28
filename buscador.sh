@@ -485,8 +485,7 @@ for turn in "${turns[@]}"; do
               ),
 
               situacao: (
-                if $s.e == "s"
-                  or (($s.st // "") | test("^eleit[oa]( |$)"; "i"))
+                if (($s.st // "") | test("^eleit[oa]( |$)"; "i"))
                 then
                   "ELEITO"
 
