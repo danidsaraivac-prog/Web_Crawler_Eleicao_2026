@@ -73,7 +73,7 @@ election_for_cargo() {
     *) die "cargo não suportado: $1" ;;
   esac
 }
-
+printf '\nUF: %s | Município (código TSE): %s\n' "${UF^^}" "$MUNICIPIO"
 for cargo in "${CARGOS[@]}"; do
   election="$(election_for_cargo "$cargo")"
   file="$tmp_dir/cargo-$cargo.json"
