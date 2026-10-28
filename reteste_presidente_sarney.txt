@@ -1,0 +1,51 @@
+Preparando a consulta aos dados do TSE...
+Carregando situação oficial: Deputado Federal, 1º turno...
+Carregando situação oficial: Deputado Estadual, 1º turno...
+Carregando situação oficial: Senador, 1º turno...
+Carregando situação oficial: Governador, 1º turno...
+Carregando situação oficial: Presidente, 1º turno...
+
+Municípios selecionados: 1 | UF: MA
+Votos: município. Situação: eleição do cargo (estado ou Brasil).
+ELEITO é uma indicação oficial do TSE; Não informada significa ausência dessa informação.
+
+========== 1º TURNO ==========
+
+UF: MA | Município: PRESIDENTE SARNEY (código TSE: 08141) | 1º turno
+
+Deputado Federal (cargo 6)
++-----------------------+--------+-------+----------+
+| NOME                  | NÚMERO | VOTOS | SITUAÇÃO |
++-----------------------+--------+-------+----------+
+| PEDRO LUCAS FERNANDES |   4444 |  3662 | ELEITO   |
++-----------------------+--------+-------+----------+
+
+Deputado Estadual (cargo 7)
++---------+--------+-------+----------+
+| NOME    | NÚMERO | VOTOS | SITUAÇÃO |
++---------+--------+-------+----------+
+| SEGUNDO |  22000 |  4220 | ELEITO   |
++---------+--------+-------+----------+
+
+Senador (cargo 5)
++----------------+--------+-------+----------+
+| NOME           | NÚMERO | VOTOS | SITUAÇÃO |
++----------------+--------+-------+----------+
+| LAHESIO BONFIM |    300 |  6079 | ELEITO   |
++----------------+--------+-------+----------+
+
+Governador (cargo 3)
++----------------+--------+-------+----------+
+| NOME           | NÚMERO | VOTOS | SITUAÇÃO |
++----------------+--------+-------+----------+
+| EDUARDO BRAIDE |     55 |  6404 | ELEITO   |
++----------------+--------+-------+----------+
+
+Presidente (cargo 1)
++------+--------+-------+----------+
+| NOME | NÚMERO | VOTOS | SITUAÇÃO |
++------+--------+-------+----------+
+| LULA |     13 |  8815 | 2º turno |
++------+--------+-------+----------+
+
+Resumo: 5 tabelas apresentadas; 0 consultas sem dados; 0 falhas.
