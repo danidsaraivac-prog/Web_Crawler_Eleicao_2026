@@ -16,3 +16,9 @@ Pontos que precisam de melhoria:
 - Permitir consultas separadas por turno, quando houver dados.
 - Identificar os eleitos pela situação oficial dos candidatos.
 - Melhorar a organização do código e as mensagens de erro.
+  
+## Pair Programming
+
+Daniela atuou como Driver, realizando as alterações no código.
+Lavynya atuou como Navigator, acompanhando a implementação
+e revisando as alterações realizadas.
