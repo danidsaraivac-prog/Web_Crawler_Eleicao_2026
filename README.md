@@ -86,6 +86,4 @@ e revisando as alterações realizadas.
 O desenvolvimento foi realizado no fork, na branch melhoria-xp,
 com commits para registrar as alterações e correções.
 Após a validação, as mudanças serão integradas à main.
-O desenvolvimento foi realizado no fork, na branch melhoria-xp,
-com commits para registrar as alterações e correções.
-Após a validação, as mudanças serão integradas à main.
+
